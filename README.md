@@ -6,7 +6,7 @@
 #### `docker pull ghcr.io/tanishshinde/linting-as-a-service:latest`
 
 ###  Start the Docker Container
-#### `docker run -d -p 3000:3000 ghcr.io/tanishshinde/linting-as-a-servic:latest`
+#### `docker run -d -p 3000:3000 ghcr.io/tanishshinde/linting-as-a-service:latest`
 
 
 # Documentation
